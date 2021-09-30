@@ -17,3 +17,9 @@ Libraries: pandas, sklearn, matplotlib, numpy, seaborn, arima, math, statsmodels
 - RMSE for ARIMA: 32.7 
 - RMSE for linear regression: 107.3
 - RMSE for polynomial regression: 116.2 
+
+![123](https://user-images.githubusercontent.com/86897066/135478293-5721cc0f-00e4-4d31-8b71-2399360c8704.png)
+![123_](https://user-images.githubusercontent.com/86897066/135478292-24480bb3-a3e8-4610-b5c8-12ec1aef7837.png)
+![download (3)](https://user-images.githubusercontent.com/86897066/135478286-4afde16c-3bbb-48f1-8252-9da4ec371c9f.png)
+![download (2)](https://user-images.githubusercontent.com/86897066/135478289-2f9dbf04-81e9-4bc0-9009-a58d252fe5f1.png)
+![ppok](https://user-images.githubusercontent.com/86897066/135478291-44ae7f88-a7d9-45a0-94bc-a08e35313c1f.png)
