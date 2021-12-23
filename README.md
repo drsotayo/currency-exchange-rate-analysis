@@ -3,7 +3,7 @@ currency-exchange-rate-analysis
 
 Forecasted currency exchange rates (Nigerian Naira - British Pounds Sterling) using different machine learning models (ARIMA, linear and polynomial regression) and evaluated key metrics
 
-Libraries: pandas, sklearn, matplotlib, numpy, seaborn, arima, math, statsmodels, auto_arima 
+**Libraries**: pandas, sklearn, matplotlib, numpy, seaborn, arima, math, statsmodels, auto_arima 
 
 # Project overview and details
 
